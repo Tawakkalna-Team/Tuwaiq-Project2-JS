@@ -16,7 +16,6 @@ app.get('/users', (req,res)=>{
 
 })
 
-
 //app post
 app.post('/name', (req,res) => {
 	console.log(req.body);
