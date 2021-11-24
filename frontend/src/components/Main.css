@@ -6,3 +6,51 @@
 #user{
     color: rgb(0, 0, 0);
 }
+
+#green{
+     background-image: linear-gradient(#0c2a17, #63d471);
+     color: white;
+     /* background-image: linear-gradient (#63b69f); */
+}
+
+#health{
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 9px;
+    margin-left: 1px;
+    
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-size:medium
+}
+
+.permit{
+    color:black;
+    font-size: large;
+}
+
+.covid{
+    margin-top: 10px;
+    margin-left: 1px;
+    font-size: 30px;
+}
+
+#health:hover {
+    background-color: #d7ddfd;
+}
+
+#permit:hover {
+    background-color: #d7ddfd;
+}
+
+.covid:hover {
+    background-color: #d7ddfd;
+}
+
+#immune{
+    font-family: italic;
+    font-size: 19px;
+     margin-right: 20px;
+     text-align: center;
+}

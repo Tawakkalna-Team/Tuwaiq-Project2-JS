@@ -1,0 +1,35 @@
+.myCard{
+    opacity: 0.5;
+    background: #ccc !important;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content:center !important;
+    align-items: center !important;
+    height: 150px !important;
+    padding: 10px !important;
+    margin-top: 30px;
+}
+.myImg{
+    height: 40px !important;
+    width: 70px !important;
+    display: block;
+    margin-left: 20px;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 15px;
+    /* cursor: pointer !important; */
+    opacity: 1;
+}
+
+.Card{
+
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content:center !important;
+    align-items: center !important;
+    height: 150px !important;
+    padding: 10px !important;
+    margin-top: 30px;
+    cursor: pointer;
+
+}
